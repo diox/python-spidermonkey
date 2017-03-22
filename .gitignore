@@ -1,5 +1,7 @@
 .*.sw?
 *.pyc
 *.pyo
+.cache/
 build/
 dist/
+spidermonkey/
